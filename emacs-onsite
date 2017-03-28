@@ -1,6 +1,6 @@
 ;; disable menu bar which I don't use typically
 (menu-bar-mode 0)
-
+fdsf
 (setq c-basic-offset 4)
 (setq compile-command "gcc")
 
