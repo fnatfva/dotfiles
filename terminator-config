@@ -1,6 +1,8 @@
 [global_config]
   title_transmit_bg_color = "#c88400"
 [keybindings]
+  broadcast_group = Disabled
+  layout_launcher = Disabled
 [profiles]
   [[default]]
     background_color = "#4e4e4e"
